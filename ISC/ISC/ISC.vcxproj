@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ISC.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ISC.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{4628B1E8-348C-4304-95D8-BA927420C341}</ProjectGuid>
